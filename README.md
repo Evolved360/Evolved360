@@ -2,9 +2,13 @@
 
 ### Materials Engineer | Machine Learning & Data Science Enthusiast | Aspiring Computational Materials Scientist
 
-I am a Materials Engineering graduate with **First Class Honours from Kwame Nkrumah University of Science and Technology (KNUST), Ghana**. My interests lie at the intersection of **Materials Science, Machine Learning, Computational Materials Science, and Data Analytics**.
+I am a Materials Engineering graduate with **First Class Honours from Kwame Nkrumah University of Science and Technology (KNUST), Ghana**. My interests span **Materials Science, Machine Learning, Artificial Intelligence, Computational Research, and Data Analytics**.
 
-I am passionate about leveraging computational techniques, artificial intelligence, and data-driven approaches to solve complex engineering and scientific problems. My research interests particularly focus on accelerating materials discovery, developing sustainable energy technologies, and applying machine learning to understand and predict material properties.
+I am passionate about leveraging data-driven approaches, computational techniques, and artificial intelligence to solve complex scientific, engineering, and business problems. My experience includes developing machine learning models for materials discovery, building predictive systems for engineering applications, and performing data analysis to uncover insights that support informed decision-making.
+
+I enjoy working across the data science pipeline, from data collection, cleaning, and exploratory data analysis to feature engineering, predictive modelling, visualization, and communicating actionable insights.
+
+My broader goal is to bridge the gap between engineering, scientific research, and data-driven decision-making through the application of emerging computational technologies.
 
 ---
 
