@@ -14,7 +14,6 @@ My broader goal is to bridge the gap between engineering, scientific research, a
 
 ## 🔬 Research Interests
 
-- Machine Learning for Materials Science
 - Computational Materials Science and Materials Discovery
 - Materials Informatics and High-Throughput Screening
 - Density Functional Theory (DFT) and Atomistic Simulations
@@ -22,6 +21,7 @@ My broader goal is to bridge the gap between engineering, scientific research, a
 - Sustainable Catalysis and Electrocatalysis
 - Artificial Intelligence for Scientific Discovery
 - Data Science and Predictive Modelling
+- Data Analytics and Visualization
 
 ## 🚀 Featured Projects
 
