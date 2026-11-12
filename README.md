@@ -116,8 +116,8 @@ I enjoy working at the intersection of engineering and artificial intelligence, 
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **Email:** YOUR_EMAIL
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **LinkedIn:** [Bernard Nii Adote Allotey](www.linkedin.com/in/bernardallotey)
+- **Email:** allotey361@gmail.com
+- **GitHub:** [Evolved360](https://github.com/Evolved360)
 
 **Let's use data and computational science to accelerate scientific discovery! 🚀**
