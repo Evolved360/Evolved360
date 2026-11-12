@@ -98,21 +98,12 @@ I am interested in collaborating on projects involving:
 
 - AI and Machine Learning for Scientific Research
 - Computational Materials Science
-- Battery Materials and Renewable Energy Technologies
+- Data Analytics and Visualization
 - Sustainable Materials and Catalysis
 - Data Science and Engineering Applications
 
 I enjoy working at the intersection of engineering and artificial intelligence, where computational tools can help address challenging scientific and technological problems.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
